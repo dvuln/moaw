@@ -1,1 +1,1 @@
-# im-feeling-lucky
+# Mother of All Wordlists
