@@ -1,0 +1,4 @@
++61405008492;phone-context=<script>alert(22)</script>
++61405008492;phone-context='
++61405008492;phone-context={{2*2}}[[3*3]]
++61405008492;phone-context=site.com
